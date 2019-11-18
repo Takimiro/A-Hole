@@ -108,3 +108,6 @@ Images on this dataset are available under the [Creative Commons Attribution-Sha
 
 If you have something to ask us about the dataset, please contact :
 `maedahi[at]iis.u-tokyo.ac.jp`
+
+529
+{'0': 62, '1': 98, '2': 27, '3': 16, '4': 118, '5': 95, '6': 85, '7': 28}
