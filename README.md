@@ -13,6 +13,11 @@ This fork has the objective of improving the Road Damage Dataset, and making it 
 - The structure of the dataset has been simplified to a single folder:
     - All (Contains all images and labels)
 
+
+## Download Road Damage Dataset
+Please pay attention to the disk capacity when downloading.
+- [RoadDamageDataset_v1 (1.7GB)](link)
+
 # Road Damage Dataset 2018
 ## The structure of the original Road Damage Dataset 
 Road Damage Dataset contains trained models and Annotated images.
@@ -66,12 +71,6 @@ Please check [RoadDamageDatasetTutorial.ipynb](https://github.com/sekilab/RoadDa
 ## License
 Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
 <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />
- 
-## Download Road Damage Dataset
-Please pay attention to the disk capacity when downloading.
-- [trainedModels (70MB)](link)
-
-- [RoadDamageDataset_v1 (1.7GB)](link)
 
 ## Privacy matters
 Our dataset is openly accessible by the public. Therefore, considering issues with privacy, based on visual inspection, when a person's face or a car license plate are clearly reflected in the image, they are blurred out.
