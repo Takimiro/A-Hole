@@ -1,4 +1,4 @@
-#Road Damage Dataset Update
+# Road Damage Dataset Update
 This fork has the objective of improving the Road Damage Dataset, and making it easier to train it on YOLO, some images had no labels, and were properly labeled, other images had no damage instances and have been removed on this version, this version has the following changes:
 - A total of 529 new instances, specifically on the following classes:
     - C00: 62
