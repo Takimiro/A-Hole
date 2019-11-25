@@ -17,6 +17,7 @@ This fork has the objective of improving the Road Damage Dataset, and making it 
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
 - [RoadDamageDataset_v1 (1.7GB)](link)
+https://www.dropbox.com/s/syeojkbep6j646m/RoadDamageDataset.zip?dl=0
 
 # Road Damage Dataset 2018
 ## The structure of the original Road Damage Dataset 
