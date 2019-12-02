@@ -13,7 +13,7 @@ This fork has the objective of improving the Road Damage Dataset, and making it 
 - The structure of the dataset has been simplified to a single folder:
     - All (Contains all images and labels)
 
-![Examples of new instances added to the dataset](https://imgur.com/undefined)
+![Examples of new instances added to the dataset](hhttps://i.imgur.com/cU2FqZ0.png)
 
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
