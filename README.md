@@ -13,11 +13,11 @@ This fork has the objective of improving the Road Damage Dataset, and making it 
 - The structure of the dataset has been simplified to a single folder:
     - All (Contains all images and labels)
 
+![Examples of new instances added to the dataset](https://imgur.com/undefined)
 
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
 - [RoadDamageDataset_YOLO (1.7GB)](https://www.dropbox.com/s/syeojkbep6j646m/RoadDamageDataset.zip?dl=0 "Download Dataset")
-
 
 
 # Road Damage Dataset 2018
@@ -38,37 +38,6 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
     - Sumida
     - Nagakute
     - Numazu
-
-# This Dataset
-## The structure of this version of Road Damage Dataset
-Road Damage Dataset contains trained models and Annotated images.
-Annotated images are presented as the same format to [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/).
-- trainedModels
-    - SSD Resnet50
-    - SSD MobileNet
-- RoadDamageDataset2019 (dataset structure is the same format as PASCAL VOC)
-    - Images: contain images (JPEG)
-    - Annotations:
-        - train.txt
-        - val.txt
-        - test.txt
-        - xmls: contain xml files of annotation
-
-## Download Road Damage Dataset
-Please pay attention to the disk capacity when downloading.
-- [trainedModels (70MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/old/trainedModels.tar.gz)
-
-- [RoadDamageDataset_v1 (1.7GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDataset.tar.gz)
-
-## Dataset Tutorial
-We also created the tutorial of Road Damage Dataset.
-In this tutorial, we will show you:
-- How to download Road Crack Dataset
-- The structure of the Dataset
-- The statistical information of the dataset
-- How to use trained models.
-
-Please check [RoadDamageDatasetTutorial.ipynb](https://github.com/sekilab/RoadDamageDetector/blob/master/RoadDamageDatasetTutorial.ipynb).
 
 ## License
 Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
