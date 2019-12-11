@@ -19,7 +19,7 @@ This fork has the objective of improving the Road Damage Dataset, and making it 
 Please pay attention to the disk capacity when downloading.
 - [RoadDamageDataset_YOLO (1.7GB)](https://www.dropbox.com/s/syeojkbep6j646m/RoadDamageDataset.zip?dl=0 "Download Dataset")
 - [Trained Weights (33MB)](https://www.dropbox.com/s/2jacbjhzplt2oo6/yolov3-tiny.weights?dl=0 "Download Trained Weights")
-- [Tensorflow Graph (30MB)](https://www.dropbox.com/s/686r4m4hdtr9y4j/ultimate_yolov3.bp?dl=0 "Download Tensorflow  Graph")
+- [Tensorflow Lite Graph (30MB)](https://www.dropbox.com/s/2pytb0wcelcr6fs/graph.lite?dl=0 "Download Tensorflow  Graph")
 
 
 # Road Damage Dataset 2018
